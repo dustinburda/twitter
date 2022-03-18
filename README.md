@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 ![me](https://github.com/dustinburda/twitter/blob/main/giphy1.gif)
 
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter Clone*
 
 **Name of your app** is a basic twitter app to read your tweets.
 
